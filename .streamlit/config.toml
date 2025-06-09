@@ -1,5 +1,8 @@
 [compatibility]
 python_version = 3.9
 
+[browser]
+gatherUsageStats = false # Importante para evitar errores de permisos al inicio
+
 
 
