@@ -1,7 +1,5 @@
 streamlit
-tensorflow-cpu==2.10.0 
+opencv-python-headless
 numpy
-Pillow
-opencv-python-headless 
-scikit-learn 
-matplotlib 
+matplotlib
+tensorflow
