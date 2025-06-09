@@ -1,0 +1,5 @@
+[runtime]
+python.version = "3.10" # Intentaremos con Python 3.10. Puedes probar "3.9" o "3.11" si hay problemas.
+
+[browser]
+gatherUsageStats = false # Importante para evitar errores de permisos al inicio
